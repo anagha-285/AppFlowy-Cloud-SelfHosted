@@ -1,4 +1,4 @@
-# AppFlowy-Cloud-SelfHosted**
+
 # AppFlowy Cloud — Self-Hosted Deployment
 
 ## 🧩 Overview
